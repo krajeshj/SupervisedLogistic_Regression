@@ -8,8 +8,8 @@ The dataset of heights and weights of males and females is being used for this c
 
 File|Description
 ---------|-------------------------------------------------------------------------------------------------------------------
-[code/Mini_Project_Linear_regression.ipynb](https://github.com/krajeshj/SupervisedLogistic_Regression/blob/master/Mini_Project_Logistic_Regression.ipynb )| Jupyter Notebook containing code for Logistic Regression Unit 11.2 Springboard
-
+[code/Mini_Project_Linear_regression.ipynb](https://github.com/krajeshj/SupervisedLogistic_Regression/blob/master/code/Mini_Project_Logistic_Regression.ipynb )| Jupyter Notebook containing code for Logistic Regression Unit 11.2 Springboard
+[data/01_heights_weights_genders.csv](https://github.com/krajeshj/SupervisedLogistic_Regression/blob/master/data/01_heights_weights_genders.csv)| csv file containing the data for mini project
  
 ### Directories 
 
@@ -22,3 +22,4 @@ Directory|Description
  
 
 ### References
+Machine Learning for hackers, Drew Conway and John Myers White
